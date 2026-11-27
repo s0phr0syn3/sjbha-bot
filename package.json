@@ -30,7 +30,7 @@
         "lodash": "^4.17.10",
         "markov-chains-text": "^1.0.0",
         "markov-generator": "^1.2.2",
-        "moment": "^2.22.0",
+        "moment": "^2.31.0",
         "mongoose": "^5.0.12",
         "mustache": "^2.3.0",
         "node-cron": "^1.2.1",
