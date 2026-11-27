@@ -31,7 +31,7 @@
         "markov-chains-text": "^1.0.0",
         "markov-generator": "^1.2.2",
         "moment": "^2.22.0",
-        "mongoose": "^5.0.12",
+        "mongoose": "^5.13.23",
         "mustache": "^2.3.0",
         "node-cron": "^1.2.1",
         "node-flint": "^4.6.4",
